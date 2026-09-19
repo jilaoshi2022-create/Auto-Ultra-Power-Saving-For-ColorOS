@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # 启动守护进程 (开机自启 & 手动启动均可)
 # 手动启动: su -c "sh /data/adb/modules/super_saver_auto/service.sh"
 MODDIR=$(cd "$(dirname "$0")" && pwd)
