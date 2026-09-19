@@ -1,0 +1,194 @@
+Mozilla Public License Version 2.0
+==================================
+
+1. Definitions
+--------------
+
+1.1. "Contributor"
+    means each individual or legal entity that creates, contributes to
+    the creation of, or owns Covered Software.
+
+1.2. "Contributor Version"
+    means the combination of the Contributions of others (if any) used
+    by a Contributor and that particular Contributor's Contribution.
+
+1.3. "Contribution"
+    means Covered Software of a particular Contributor.
+
+1.4. "Covered Software"
+    means Source Code to which this License applies, and the
+    Associated Software.
+
+1.5. "Incompatible With Secondary Licenses"
+    means that the Source Code of the Covered Software is not
+    licensed under a Secondary License.
+
+1.6. "Larger Work"
+    means a work that combines Covered Software with other material,
+    in a single file or a collection of files.
+
+1.7. "License"
+    means this Mozilla Public License Version 2.0.
+
+1.8. "Licensed"
+    means licensed under the terms of this License.
+
+1.9. "Secondary License"
+    means either the GNU General Public License, Version 2.0, the
+    GNU Lesser General Public License, Version 2.1, the GNU Affero
+    General Public License, Version 3.0, or any later versions of
+    those licenses.
+
+1.10. "Source Code"
+    means the form of the software in which modifications are made,
+    including source code, interface definitions, build scripts,
+    and documentation.
+
+1.11. "You" (or "Your")
+    means an individual or legal entity exercising rights under
+    this License.
+
+2. Grant of Rights
+------------------
+
+2.1. Copyright Grant
+Subject to the terms of this License, each Contributor hereby
+grants to You a perpetual, worldwide, non‑exclusive, no‑charge,
+royalty‑free copyright license to reproduce, prepare Derivative
+Works of, publicly display, publicly perform, distribute, and
+sublicense the Covered Software.
+
+2.2. Patent Grant
+Subject to the terms of this License, each Contributor hereby
+grants to You a perpetual, worldwide, non‑exclusive, no‑charge,
+royalty‑free patent license to make, have made, use, offer to
+sell, sell, import, and otherwise transfer the Covered Software,
+where such license applies only to those patent claims licensable
+by such Contributor that are necessarily infringed by their
+Contribution(s) alone or by combination of their Contribution(s)
+with the Covered Software to which such Contribution(s) was
+submitted.
+
+3. Conditions
+-------------
+
+3.1. Distribution of Source Code
+When You distribute Covered Software in Source Code form, You
+must:
+
+(a) Include a copy of this License with the Covered Software; and
+
+(b) Cause any modified files to carry prominent notices stating
+that You changed the files; and
+
+(c) Retain in the Source Code of any Covered Software, all
+copyright, patent, trademark, and attribution notices from the
+Source Code of the Covered Software, excluding those notices that
+do not pertain to any part of the Covered Software; and
+
+(d) If the Covered Software includes a "NOTICE" text file as part
+of its distribution, then any Derivative Works that You
+distribute must include a readable copy of the attribution notices
+contained within such NOTICE file, excluding those notices that do
+not pertain to any part of the Derivative Works.
+
+3.2. Distribution of Executable Form
+If You distribute Covered Software in executable form:
+
+(a) You must make available, in accordance with Section 3.1, the
+Source Code of the Covered Software; and
+
+(b) The Source Code must be made available to recipients at no
+charge, for a period of at least 12 months, and must be
+accessible to recipients via a network download.
+
+3.3. Larger Works
+You may create a Larger Work by combining Covered Software with
+other code not governed by the terms of this License and distribute
+the Larger Work as a single product. In such a case, You must make
+sure the requirements of this License are fulfilled for the Covered
+Software.
+
+4. Incompatibility With Secondary Licenses
+------------------------------------------
+
+If You make use of Covered Software in a way that makes it
+incompatible with a Secondary License, You may not distribute the
+Covered Software.
+
+5. Submission of Contributions
+-------------------------------
+
+Unless You explicitly state otherwise, any Contribution intentionally
+submitted for inclusion in the Covered Software by You to the
+Contributor(s) shall be under the terms and conditions of this
+License, without any additional terms or conditions.
+
+6. Trademarks
+-------------
+
+This License does not grant permission to use the trade names,
+trademarks, service marks, or product names of the Contributor(s),
+except as required for reasonable and customary use in describing the
+origin of the Covered Software.
+
+7. Disclaimer of Warranty
+-------------------------
+
+COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS,
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
+WITHOUT LIMITATION, WARRANTIES THAT THE COVERED SOFTWARE IS FREE OF
+DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON‑
+INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+COVERED SOFTWARE IS WITH YOU. SHOULD ANY COVERED SOFTWARE PROVE DEFECTIVE,
+YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+8. Limitation of Liability
+--------------------------
+
+IN NO EVENT WILL ANY CONTRIBUTOR BE LIABLE TO YOU FOR ANY DIRECT,
+INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT
+OF THE USE OR DISTRIBUTION OF THE COVERED SOFTWARE OR THE EXERCISE OF
+ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+9. Termination
+--------------
+
+9.1. This License will terminate automatically if You fail to comply
+with all of its terms and conditions.
+
+9.2. If You have materially breached this License, and fail to cure
+such breach within 30 days of receiving notice of the breach from
+the Contributor, the Contributor may terminate this License.
+
+10. New Versions of the License
+-------------------------------
+
+10.1. Mozilla Foundation may publish revised and/or new versions of
+the License from time to time. Each version will be given a
+distinguishing version number.
+
+10.2. Once Covered Software has been released under a particular
+version of the License, You may choose to continue using it under
+that version.
+
+11. Miscellaneous
+-----------------
+
+11.1. This License represents the complete agreement concerning the
+subject matter hereof.
+
+11.2. If any provision of this License is held to be unenforceable,
+such provision shall be reformed to the maximum extent possible to
+make the provision enforceable.
+
+11.3. If You distribute Covered Software, You may choose to offer,
+and charge a fee for, warranty, support, indemnity, or liability
+obligations to one or more recipients. However, You do so solely on
+Your own behalf, and not on behalf of any Contributor.
+
+11.4. Except as expressly stated in this License, no Contributor
+grants any license, express or implied, to any intellectual
+property rights of any Contributor.
+
