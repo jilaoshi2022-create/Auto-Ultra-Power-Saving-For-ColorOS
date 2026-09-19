@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # 超级省电 诊断脚本 - root终端执行: sh diag.sh
 # 结果写入 /sdcard/super_saver_diag.txt
 OUT=/sdcard/super_saver_diag.txt
