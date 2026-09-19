@@ -1,3 +1,4 @@
+This project is licensed under the MPL‑2.0 License.
 # 息屏自动超级省电 (KSU/Magisk 模块)
 
 息屏满配置时长（默认1800s）后自动开启「超级省电模式」(非省电模式)，亮屏自动关闭；充电时不进入；手动开启的超级省电亮屏不会自动关闭。
