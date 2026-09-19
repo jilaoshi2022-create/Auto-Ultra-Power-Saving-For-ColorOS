@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # ============ 配置 ============
 # 息屏多少秒后开启超级省电 (默认 1800 = 30 分钟; 快速测试可改 5)
 DELAY_SEC=1800
