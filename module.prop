@@ -1,0 +1,6 @@
+id=super_saver_auto
+name=真我息屏自动超级省电
+version=v1.7
+versionCode=7
+author=jilaoshi2022
+description=息屏满配置时长(默认1800s)自动开启超级省电模式(非省电模式),亮屏自动关闭;充电不进入;手动开启的亮屏不关闭;自动临时处理SELinux(ksu域兼容);开关省电自动备份恢复显示设置(电池百分比/样式)
