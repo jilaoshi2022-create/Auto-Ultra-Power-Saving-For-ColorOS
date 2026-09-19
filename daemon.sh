@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # 真我息屏自动超级省电 - 守护进程
 # 状态机:
 #   息屏 & 未充电 & 满 DELAY_SEC 秒      -> 临时宽松SELinux, 开启超级省电(打 auto 标记)
