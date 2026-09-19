@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # 安装时执行: 补全脚本执行权限 (KSU 刷入可能重置为 644)
 MODDIR=${0%/*}
 chmod 755 "$MODDIR"/*.sh 2>/dev/null
