@@ -1,4 +1,5 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: MPL-2.0
 # 超级省电控制层 (realme UI / ColorOS)
 # 诊断确认: 超级省电由 settings system 键 super_powersave_mode_state 控制 (0=关, 1=开)
 # 配套键: super_powersave_launcher_enter(省电桌面进入标记), super_power_save_desktop_app_list(省电桌面允许应用)
